@@ -151,10 +151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com/) for providing powerful language models
 - All contributors who help improve this project
 
-## 📧 Contact
-
-**Harshit** - [@YourTwitterHandle](https://twitter.com/yourhandle)
-
 
 ⭐ **If you find this project useful, please consider giving it a star!** ⭐
 
